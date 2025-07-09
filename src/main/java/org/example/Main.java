@@ -1,4 +1,4 @@
-package org.example;
+package main.java.org.example;
 
 public class Main {
     public static void main(String[] args) {
@@ -11,6 +11,7 @@ public class Main {
         System.out.println("cigdem 2");
         System.out.println("121212");
         System.out.println("kalispera");
+        System.out.println("bittim ben");
         System.out.println("heloooovvvv");
         System.out.println("kapanis");
         System.out.println("enson");
