@@ -5,6 +5,8 @@ public class Main {
         System.out.println("Hello, World!, merhabaaaaaaa");
         System.out.println("Hello, World!, Çiğdem");
         System.out.println("bebiştay");
+        System.out.println("ANlasildi");
+
 
 
     }
