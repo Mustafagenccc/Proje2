@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Hello, World!, Çiğdem");
         System.out.println("bebiştay");
         System.out.println("ANlasildi");
+        System.out.println("cigdem 2");
         System.out.println("kalispera");
 
 
