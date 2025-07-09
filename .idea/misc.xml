@@ -17,6 +17,7 @@
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
 >>>>>>> 9b4bc5c7120eca6671fb8579a40656be3c460825
 >>>>>>> main
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="ms-17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
