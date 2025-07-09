@@ -7,10 +7,12 @@ public class Main {
         System.out.println("Hello, World!, Çiğdem");
         System.out.println("bebiştay");
         System.out.println("ANlasildi");
+        System.out.println("araya");
         System.out.println("cigdem 2");
         System.out.println("kalispera");
         System.out.println("heloooovvvv");
         System.out.println("kapanis");
+        System.out.println("enson");
 
     }
 }
